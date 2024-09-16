@@ -14,7 +14,7 @@ This bot is designed to handle customer support tasks on Discord, including warr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/discord-support-bot.git
+    git clone https://github.com/Gioxaa/WarrantyAndStockBot-Discord.git
     cd discord-support-bot
     ```
 
