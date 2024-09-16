@@ -1,0 +1,11 @@
+{
+    "token": "MTI3NTQ4MjAxNzkwNzIxMjI4OA.GPCYwY.rLFw6kGi6A45uppaJKZd9f4-9NSCdGxx3Awaus",
+    "prefix": ".",
+    "bot_name": "SupportBot",
+    "profile_picture": "https://cdn.discordapp.com/attachments/1275360910906753064/1275474302443196507/frame.png?ex=66c60582&is=66c4b402&hm=36fdcbcd06e407184fad23775f996ff2ea90d4a8c002ff44c6e5b1003b5b67a1&",
+    "report_channel_id": 1275483697478373510,
+    "help_channel_id": 1275442404899557419,
+    "buyer_roles": [1275176202709241960, 1275176757460471912, 1259443952369668147],
+    "admin_roles": [1259443952369668147],
+    "guild_id": 1259443545417191435
+}
