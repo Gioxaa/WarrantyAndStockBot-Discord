@@ -29,7 +29,7 @@ This bot is designed to handle customer support tasks on Discord, including warr
     pip install -r requirements.txt
     ```
 
-4. Create a `config.json` file with the following structure:
+4. Edit `config.json` file with the following structure:
     ```json
     {
         "prefix": "!",
@@ -41,7 +41,7 @@ This bot is designed to handle customer support tasks on Discord, including warr
     }
     ```
 
-5. Create a `stock.json` file with initial stock data:
+5. Edit `stock.json` file with initial stock data:
     ```json
     {
         "netflix": 0,
