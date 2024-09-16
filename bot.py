@@ -235,9 +235,7 @@ async def payment(ctx):
             description=(
                 "*Payment Accept:*"
                 "```" 
-                "> DANA    ┃ 082255997725 a/n Muhammad Reyhan\n"
-                "> Gopay   ┃ 081258489742 a/n Muhammad Reyhan\n"
-                "> SeaBank ┃ 901778459810 a/n Muhammad Reyhan\n"
+                "> DANA    ┃ 081234567899 a/n yourname\n"
                 "```"
             ),
             color=discord.Color.from_rgb(255, 223, 0)
