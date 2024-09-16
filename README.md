@@ -1,7 +1,7 @@
-# WarrantyAndStockBot-Discord
+# 📖 WarrantyAndStockBot-Discord
 This bot is designed to handle customer support tasks on Discord, including warranty claims, stock management, and providing information about payment methods and premium app terms.
 
-## Features
+## 📫 Features
 
 - **Warranty Claims**: Users can claim warranties for various apps using specific commands and formats.
 - **Stock Management**: Admins can manage stock for products with commands to add or remove stock.
@@ -10,7 +10,7 @@ This bot is designed to handle customer support tasks on Discord, including warr
 - **AFK Status**: Users can set their AFK status, which will be announced when they are mentioned.
 - **Command List**: Includes various commands for stock checking, payment information, and more.
 
-## Setup
+## ⏳ Setup
 
 1. Clone the repository:
     ```bash
@@ -64,7 +64,7 @@ This bot is designed to handle customer support tasks on Discord, including warr
     python bot.py
     ```
 
-## Commands
+## 💬 Commands
 
 - **Warranty Claims**:
   - `.canvagaransi`: Claim warranty for Canva.
